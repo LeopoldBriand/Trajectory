@@ -1,5 +1,5 @@
 from pycnic.core import WSGI
-import Routes.search.py
+from Routes.search import Search
 
 class app(WSGI):
     routes = [('/search', Search())]

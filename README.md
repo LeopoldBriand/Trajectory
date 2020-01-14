@@ -13,5 +13,9 @@ Sous Windows :
 
 Installation des dépendances par l'utilisation de : pip install -r requirements.txt
 
+Lancer le serveur Back : 
+    - cd ./Back/DAO/
+    - gunicorn -b 127.0.0.1:5100 server:app
+
 # Trajectory API
 Lancer l'API : npm start
