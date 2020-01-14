@@ -1,0 +1,3242 @@
+[
+    {
+        "name": "Kennedy",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Villejean",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Anatole France",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Sainte-Anne",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "R\u00e9publique",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Charles de Gaulle",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gares",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jacques Cartier",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Clemenceau",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Henri Fr\u00e9ville",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Italie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Triangle",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Le Blosne",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La Poterie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Champs Blancs",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ch\u00eane Germain",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cesson H\u00f4pital Priv\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Longs Champs",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bouzat",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gallet",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Donzelot",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Mirabeau",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Turmel",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Assomption",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Painlev\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Metz Volney",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gu\u00e9henno",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Fac de Droit",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "S\u00e9vign\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Champ Jacquet",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La Cri\u00e9e",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Libert\u00e9 TNB",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Champs Libres",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La\u00ebnnec",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Croix Saint-H\u00e9lier",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Raison",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Villebois-Mareuil",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Landry",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Domaine",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "CARSAT",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Sauvaie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Loges",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Chantepie Mairie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Chantepie Eglise",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Deux Ruisseaux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "G\u00e9riatrie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Touche Annette",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Rosa Parks",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Champ Daguet",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Nobel",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ricoquais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Camus",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Vivier Louis",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Uttenreuth",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Discalceat",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Forge",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Haut Trait",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "CHP Saint-Gr\u00e9goire",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La Plesse",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Lyc\u00e9e Mend\u00e8s France",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Doneli\u00e8re",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Trois Croix",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cimeti\u00e8re Nord",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Saint-Martin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "ESPE de Bretagne",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La Touche",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Brest Verdun",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Horizons",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Les Lices",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Place de Bretagne",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pir\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bourgeois",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Calmette",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Monsieur Vincent",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Lyc\u00e9e Descartes",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Monnet",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bourgueil",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gohier",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ronceray",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Haut Sanc\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Saint-Laurent",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "H\u00f4tel de R\u00e9gion",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "H\u00e9roni\u00e8re",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gayeulles Piscine",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Le Blizz",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gayeulles",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Joliot-Curie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Lyc\u00e9e Chateaubriand",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Docteur Quentin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Vitr\u00e9 Danton",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jeanne d'Arc",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Durafour",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Oberthur",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Saint-Vincent",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ch\u00e2teaudun",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Thabor",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Place Pasteur",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gare Sud F\u00e9val",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ginguen\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Sacr\u00e9s Coeurs",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Garigliano",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Fr\u00e8res Moine",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Champs Manceaux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Su\u00e8de",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Canada",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Alma",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Grand Quartier",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Dulac",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "L\u00e9onard",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pr\u00e9fecture - ESC",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cucill\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Olympe de Gouges",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bois Labb\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Villejean-Universit\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Universit\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Berger",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Languedoc",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La Salle",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Marbeuf",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Guilloux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ch\u00e8ques Postaux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Le Mail",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Mus\u00e9e Beaux Arts",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Paul Bert",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pont de Ch\u00e2teaudun",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Robidou",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pont de Strasbourg",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Plaine de Baud",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Les Pr\u00e9ales",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Tournebride",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Beaulieu Chimie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Beaulieu INSA",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Beaulieu Restau U",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "IUT",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Clos Courtel",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Longs Champs Est",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "ZA Saint-Sulpice",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Patton",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Monts d'Arr\u00e9e",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Neruda",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Condate",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bellangerais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Morbihan",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Houx Cit\u00e9 U",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Rochester",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gros Ch\u00eane",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Volney",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jules Ferry",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Rectorat",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "H\u00f4tel Dieu",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pl\u00e9lo Colombier",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cit\u00e9 Judiciaire",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pont de Nantes",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Foyer Rennais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Mermoz",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pilate",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Saint-Yves",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pigeon Blanc",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pressoirs",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "F\u00e9lix Ebou\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Boberil",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Lyc\u00e9e Br\u00e9quigny",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "A\u00e9roport",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Aire Libre",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Abb\u00e9 Grimault",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Morinais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Coll\u00e8ge Jean Moulin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "M\u00e9diath\u00e8que",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jean Marin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jean Jaur\u00e8s",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Roger Dodin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gait\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Dominos",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jules Maniez",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Coeur de Courrouze",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jules Verne",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Saint-Conwo\u00efon",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Redon",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Champs P\u00e9ans",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Taillis",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Hublais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Sports et Nature",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Vilaine",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Muguet",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Maison d'Accueil",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Mare Pav\u00e9e",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Fontenelle",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La Coul\u00e9e",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bourgchevreuil",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cesson Coll\u00e8ge",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Chalotais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bordage",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Rigourdi\u00e8re",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Longs Pr\u00e9s",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gast",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Europe",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Tr\u00e9gain",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Saint-Exup\u00e9ry",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Malakoff",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Voltaire",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Dargent",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Champion de Cic\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "De Lesseps",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gu\u00e9rinais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "R\u00e9cipon",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Montand",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Clinique La Sagesse",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cleunay",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Roazhon Park",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "G\u00e9niaux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Kerviler",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Papeteries",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Guilloux Lorient",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Mou\u00e9zy",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Serpette",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cimeti\u00e8re de l'Est",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pavie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Saint-Sa\u00ebns",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Buisson",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Erboni\u00e8re",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Charmilles",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bas Village",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Forum",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Breillou",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Veyettes",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cours Kennedy",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Normandie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "La Harpe",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Meynier",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Parc Beauregard",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Malraux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Mandela",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Lenoir",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Auberge de Jeunesse",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Square de la Rance",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Foss\u00e9s",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Lyc\u00e9e Zola",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ch\u00e2tillon",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Ormeaux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Bigot de Pr\u00e9ameneu",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Sainte-Th\u00e9r\u00e8se",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Leray",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Langevin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Gide",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Landrel",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Pologne",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Galicie",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Cleunay Stade",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Jean Pont",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "25 Fusill\u00e9s",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Br\u00e9quigny Piscine",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Coubertin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Norv\u00e8ge",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Argonautes",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Combes",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Binquenais",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Binquenais Coll\u00e8ge",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Torign\u00e9",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "H\u00f4pital Sud",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Les Arts",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Atalante Champeaux",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Chambre Agriculture",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Colin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Merlin",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Villejean-Churchill",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Armorique",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "H\u00e9lias",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Hotel de R\u00e9gion",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Vitr\u00e9 Foulon",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    },
+    {
+        "name": "Beaulieu Cit\u00e9 U",
+        "color": "#FFFFFF",
+        "liaisons": [],
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle"
+    }
+]
