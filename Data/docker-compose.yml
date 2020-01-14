@@ -19,7 +19,7 @@ services:
       - "27017:27017"
 
   mongo-express:
-    image: mongo-express-trajectory
+    image: mongo-express
     restart: always
     ports:
       - 8081:8081
