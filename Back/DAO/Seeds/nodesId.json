@@ -1,0 +1,4322 @@
+[
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a7b",
+        "name": "Kennedy",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.166Z",
+        "updatedAt": "2020-01-13T21:26:57.166Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a7c",
+        "name": "Villejean",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.173Z",
+        "updatedAt": "2020-01-13T21:26:57.173Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a7d",
+        "name": "Anatole France",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.180Z",
+        "updatedAt": "2020-01-13T21:26:57.180Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a7e",
+        "name": "Sainte-Anne",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.188Z",
+        "updatedAt": "2020-01-13T21:26:57.188Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a7f",
+        "name": "R\u00e9publique",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.196Z",
+        "updatedAt": "2020-01-13T21:26:57.196Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a80",
+        "name": "Charles de Gaulle",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.206Z",
+        "updatedAt": "2020-01-13T21:26:57.206Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a81",
+        "name": "Gares",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.214Z",
+        "updatedAt": "2020-01-13T21:26:57.214Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a82",
+        "name": "Jacques Cartier",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.225Z",
+        "updatedAt": "2020-01-13T21:26:57.225Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a83",
+        "name": "Clemenceau",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.253Z",
+        "updatedAt": "2020-01-13T21:26:57.253Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a84",
+        "name": "Henri Fr\u00e9ville",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.276Z",
+        "updatedAt": "2020-01-13T21:26:57.276Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a85",
+        "name": "Italie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.291Z",
+        "updatedAt": "2020-01-13T21:26:57.291Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a86",
+        "name": "Triangle",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.307Z",
+        "updatedAt": "2020-01-13T21:26:57.307Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a87",
+        "name": "Le Blosne",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.323Z",
+        "updatedAt": "2020-01-13T21:26:57.323Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a88",
+        "name": "La Poterie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.341Z",
+        "updatedAt": "2020-01-13T21:26:57.341Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a89",
+        "name": "Champs Blancs",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.355Z",
+        "updatedAt": "2020-01-13T21:26:57.355Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a8a",
+        "name": "Ch\u00eane Germain",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.369Z",
+        "updatedAt": "2020-01-13T21:26:57.369Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a8b",
+        "name": "Cesson H\u00f4pital Priv\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.383Z",
+        "updatedAt": "2020-01-13T21:26:57.383Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a8c",
+        "name": "Longs Champs",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.401Z",
+        "updatedAt": "2020-01-13T21:26:57.401Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a8d",
+        "name": "Bouzat",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.414Z",
+        "updatedAt": "2020-01-13T21:26:57.414Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a8e",
+        "name": "Gallet",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.428Z",
+        "updatedAt": "2020-01-13T21:26:57.428Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a8f",
+        "name": "Donzelot",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.441Z",
+        "updatedAt": "2020-01-13T21:26:57.441Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a90",
+        "name": "Mirabeau",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.455Z",
+        "updatedAt": "2020-01-13T21:26:57.455Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a91",
+        "name": "Turmel",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.474Z",
+        "updatedAt": "2020-01-13T21:26:57.474Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a92",
+        "name": "Assomption",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.490Z",
+        "updatedAt": "2020-01-13T21:26:57.490Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a93",
+        "name": "Painlev\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.502Z",
+        "updatedAt": "2020-01-13T21:26:57.502Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a94",
+        "name": "Metz Volney",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.517Z",
+        "updatedAt": "2020-01-13T21:26:57.517Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a95",
+        "name": "Gu\u00e9henno",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.536Z",
+        "updatedAt": "2020-01-13T21:26:57.536Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a96",
+        "name": "Fac de Droit",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.551Z",
+        "updatedAt": "2020-01-13T21:26:57.551Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a97",
+        "name": "S\u00e9vign\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.570Z",
+        "updatedAt": "2020-01-13T21:26:57.570Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a98",
+        "name": "Champ Jacquet",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.584Z",
+        "updatedAt": "2020-01-13T21:26:57.584Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a99",
+        "name": "La Cri\u00e9e",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.599Z",
+        "updatedAt": "2020-01-13T21:26:57.599Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a9a",
+        "name": "Libert\u00e9 TNB",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.613Z",
+        "updatedAt": "2020-01-13T21:26:57.613Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a9b",
+        "name": "Champs Libres",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.627Z",
+        "updatedAt": "2020-01-13T21:26:57.627Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a9c",
+        "name": "La\u00ebnnec",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.641Z",
+        "updatedAt": "2020-01-13T21:26:57.641Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a9d",
+        "name": "Croix Saint-H\u00e9lier",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.655Z",
+        "updatedAt": "2020-01-13T21:26:57.655Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a9e",
+        "name": "Raison",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.668Z",
+        "updatedAt": "2020-01-13T21:26:57.668Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2a9f",
+        "name": "Villebois-Mareuil",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.683Z",
+        "updatedAt": "2020-01-13T21:26:57.683Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa0",
+        "name": "Landry",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.697Z",
+        "updatedAt": "2020-01-13T21:26:57.697Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa1",
+        "name": "Domaine",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.715Z",
+        "updatedAt": "2020-01-13T21:26:57.715Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa2",
+        "name": "CARSAT",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.729Z",
+        "updatedAt": "2020-01-13T21:26:57.729Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa3",
+        "name": "Sauvaie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.746Z",
+        "updatedAt": "2020-01-13T21:26:57.746Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa4",
+        "name": "Loges",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.761Z",
+        "updatedAt": "2020-01-13T21:26:57.761Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa5",
+        "name": "Chantepie Mairie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.778Z",
+        "updatedAt": "2020-01-13T21:26:57.778Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa6",
+        "name": "Chantepie Eglise",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.800Z",
+        "updatedAt": "2020-01-13T21:26:57.800Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa7",
+        "name": "Deux Ruisseaux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.817Z",
+        "updatedAt": "2020-01-13T21:26:57.817Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa8",
+        "name": "G\u00e9riatrie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.830Z",
+        "updatedAt": "2020-01-13T21:26:57.830Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aa9",
+        "name": "Touche Annette",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.847Z",
+        "updatedAt": "2020-01-13T21:26:57.847Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aaa",
+        "name": "Rosa Parks",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.859Z",
+        "updatedAt": "2020-01-13T21:26:57.859Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aab",
+        "name": "Champ Daguet",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.876Z",
+        "updatedAt": "2020-01-13T21:26:57.876Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aac",
+        "name": "Nobel",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.890Z",
+        "updatedAt": "2020-01-13T21:26:57.890Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aad",
+        "name": "Ricoquais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.903Z",
+        "updatedAt": "2020-01-13T21:26:57.903Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aae",
+        "name": "Camus",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.916Z",
+        "updatedAt": "2020-01-13T21:26:57.916Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2aaf",
+        "name": "Vivier Louis",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.946Z",
+        "updatedAt": "2020-01-13T21:26:57.946Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2ab0",
+        "name": "Uttenreuth",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.967Z",
+        "updatedAt": "2020-01-13T21:26:57.967Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a18574ea2531df2ab1",
+        "name": "Discalceat",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:57.986Z",
+        "updatedAt": "2020-01-13T21:26:57.986Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab2",
+        "name": "Forge",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.013Z",
+        "updatedAt": "2020-01-13T21:26:58.013Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab3",
+        "name": "Haut Trait",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.033Z",
+        "updatedAt": "2020-01-13T21:26:58.033Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab4",
+        "name": "CHP Saint-Gr\u00e9goire",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.054Z",
+        "updatedAt": "2020-01-13T21:26:58.054Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab5",
+        "name": "La Plesse",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.078Z",
+        "updatedAt": "2020-01-13T21:26:58.078Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab6",
+        "name": "Lyc\u00e9e Mend\u00e8s France",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.102Z",
+        "updatedAt": "2020-01-13T21:26:58.102Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab7",
+        "name": "Doneli\u00e8re",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.137Z",
+        "updatedAt": "2020-01-13T21:26:58.137Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab8",
+        "name": "Trois Croix",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.177Z",
+        "updatedAt": "2020-01-13T21:26:58.177Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ab9",
+        "name": "Cimeti\u00e8re Nord",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.202Z",
+        "updatedAt": "2020-01-13T21:26:58.202Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2aba",
+        "name": "Saint-Martin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.233Z",
+        "updatedAt": "2020-01-13T21:26:58.233Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2abb",
+        "name": "ESPE de Bretagne",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.257Z",
+        "updatedAt": "2020-01-13T21:26:58.257Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2abc",
+        "name": "La Touche",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.285Z",
+        "updatedAt": "2020-01-13T21:26:58.285Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2abd",
+        "name": "Brest Verdun",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.316Z",
+        "updatedAt": "2020-01-13T21:26:58.316Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2abe",
+        "name": "Horizons",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.350Z",
+        "updatedAt": "2020-01-13T21:26:58.350Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2abf",
+        "name": "Les Lices",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.381Z",
+        "updatedAt": "2020-01-13T21:26:58.381Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac0",
+        "name": "Place de Bretagne",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.408Z",
+        "updatedAt": "2020-01-13T21:26:58.408Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac1",
+        "name": "Pir\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.440Z",
+        "updatedAt": "2020-01-13T21:26:58.440Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac2",
+        "name": "Bourgeois",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.471Z",
+        "updatedAt": "2020-01-13T21:26:58.471Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac3",
+        "name": "Calmette",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.498Z",
+        "updatedAt": "2020-01-13T21:26:58.498Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac4",
+        "name": "Monsieur Vincent",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.545Z",
+        "updatedAt": "2020-01-13T21:26:58.545Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac5",
+        "name": "Lyc\u00e9e Descartes",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.581Z",
+        "updatedAt": "2020-01-13T21:26:58.581Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac6",
+        "name": "Monnet",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.612Z",
+        "updatedAt": "2020-01-13T21:26:58.612Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac7",
+        "name": "Bourgueil",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.641Z",
+        "updatedAt": "2020-01-13T21:26:58.641Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac8",
+        "name": "Gohier",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.665Z",
+        "updatedAt": "2020-01-13T21:26:58.665Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ac9",
+        "name": "Ronceray",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.690Z",
+        "updatedAt": "2020-01-13T21:26:58.690Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2aca",
+        "name": "Haut Sanc\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.713Z",
+        "updatedAt": "2020-01-13T21:26:58.713Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2acb",
+        "name": "Saint-Laurent",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.738Z",
+        "updatedAt": "2020-01-13T21:26:58.738Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2acc",
+        "name": "H\u00f4tel de R\u00e9gion",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.766Z",
+        "updatedAt": "2020-01-13T21:26:58.766Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2acd",
+        "name": "H\u00e9roni\u00e8re",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.791Z",
+        "updatedAt": "2020-01-13T21:26:58.791Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ace",
+        "name": "Gayeulles Piscine",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.815Z",
+        "updatedAt": "2020-01-13T21:26:58.815Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2acf",
+        "name": "Le Blizz",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.848Z",
+        "updatedAt": "2020-01-13T21:26:58.848Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ad0",
+        "name": "Gayeulles",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.876Z",
+        "updatedAt": "2020-01-13T21:26:58.876Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ad1",
+        "name": "Joliot-Curie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.906Z",
+        "updatedAt": "2020-01-13T21:26:58.906Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ad2",
+        "name": "Lyc\u00e9e Chateaubriand",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.931Z",
+        "updatedAt": "2020-01-13T21:26:58.931Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ad3",
+        "name": "Docteur Quentin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.961Z",
+        "updatedAt": "2020-01-13T21:26:58.961Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a28574ea2531df2ad4",
+        "name": "Vitr\u00e9 Danton",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:58.993Z",
+        "updatedAt": "2020-01-13T21:26:58.993Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ad5",
+        "name": "Jeanne d'Arc",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.025Z",
+        "updatedAt": "2020-01-13T21:26:59.025Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ad6",
+        "name": "Durafour",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.051Z",
+        "updatedAt": "2020-01-13T21:26:59.051Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ad7",
+        "name": "Oberthur",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.074Z",
+        "updatedAt": "2020-01-13T21:26:59.074Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ad8",
+        "name": "Saint-Vincent",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.096Z",
+        "updatedAt": "2020-01-13T21:26:59.096Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ad9",
+        "name": "Ch\u00e2teaudun",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.120Z",
+        "updatedAt": "2020-01-13T21:26:59.120Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ada",
+        "name": "Thabor",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.149Z",
+        "updatedAt": "2020-01-13T21:26:59.149Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2adb",
+        "name": "Place Pasteur",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.181Z",
+        "updatedAt": "2020-01-13T21:26:59.181Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2adc",
+        "name": "Gare Sud F\u00e9val",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.226Z",
+        "updatedAt": "2020-01-13T21:26:59.226Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2add",
+        "name": "Ginguen\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.256Z",
+        "updatedAt": "2020-01-13T21:26:59.256Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ade",
+        "name": "Sacr\u00e9s Coeurs",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.289Z",
+        "updatedAt": "2020-01-13T21:26:59.289Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2adf",
+        "name": "Garigliano",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.321Z",
+        "updatedAt": "2020-01-13T21:26:59.321Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae0",
+        "name": "Fr\u00e8res Moine",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.366Z",
+        "updatedAt": "2020-01-13T21:26:59.366Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae1",
+        "name": "Champs Manceaux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.396Z",
+        "updatedAt": "2020-01-13T21:26:59.396Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae2",
+        "name": "Su\u00e8de",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.422Z",
+        "updatedAt": "2020-01-13T21:26:59.422Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae3",
+        "name": "Canada",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.447Z",
+        "updatedAt": "2020-01-13T21:26:59.447Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae4",
+        "name": "Alma",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.474Z",
+        "updatedAt": "2020-01-13T21:26:59.474Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae5",
+        "name": "Grand Quartier",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.499Z",
+        "updatedAt": "2020-01-13T21:26:59.499Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae6",
+        "name": "Dulac",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.520Z",
+        "updatedAt": "2020-01-13T21:26:59.520Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae7",
+        "name": "L\u00e9onard",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.559Z",
+        "updatedAt": "2020-01-13T21:26:59.559Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae8",
+        "name": "Pr\u00e9fecture - ESC",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.584Z",
+        "updatedAt": "2020-01-13T21:26:59.584Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2ae9",
+        "name": "Cucill\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.606Z",
+        "updatedAt": "2020-01-13T21:26:59.606Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2aea",
+        "name": "Olympe de Gouges",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.631Z",
+        "updatedAt": "2020-01-13T21:26:59.631Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2aeb",
+        "name": "Bois Labb\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.659Z",
+        "updatedAt": "2020-01-13T21:26:59.659Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2aec",
+        "name": "Villejean-Universit\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.691Z",
+        "updatedAt": "2020-01-13T21:26:59.691Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2aed",
+        "name": "Universit\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.717Z",
+        "updatedAt": "2020-01-13T21:26:59.717Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2aee",
+        "name": "Berger",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.742Z",
+        "updatedAt": "2020-01-13T21:26:59.742Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2aef",
+        "name": "Languedoc",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.793Z",
+        "updatedAt": "2020-01-13T21:26:59.793Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2af0",
+        "name": "La Salle",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.824Z",
+        "updatedAt": "2020-01-13T21:26:59.824Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2af1",
+        "name": "Marbeuf",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.856Z",
+        "updatedAt": "2020-01-13T21:26:59.856Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2af2",
+        "name": "Guilloux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.879Z",
+        "updatedAt": "2020-01-13T21:26:59.879Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2af3",
+        "name": "Ch\u00e8ques Postaux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.907Z",
+        "updatedAt": "2020-01-13T21:26:59.907Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2af4",
+        "name": "Le Mail",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.936Z",
+        "updatedAt": "2020-01-13T21:26:59.936Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2af5",
+        "name": "Mus\u00e9e Beaux Arts",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.965Z",
+        "updatedAt": "2020-01-13T21:26:59.965Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a38574ea2531df2af6",
+        "name": "Paul Bert",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:26:59.986Z",
+        "updatedAt": "2020-01-13T21:26:59.986Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2af7",
+        "name": "Pont de Ch\u00e2teaudun",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.009Z",
+        "updatedAt": "2020-01-13T21:27:00.009Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2af8",
+        "name": "Robidou",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.037Z",
+        "updatedAt": "2020-01-13T21:27:00.037Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2af9",
+        "name": "Pont de Strasbourg",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.059Z",
+        "updatedAt": "2020-01-13T21:27:00.059Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2afa",
+        "name": "Plaine de Baud",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.085Z",
+        "updatedAt": "2020-01-13T21:27:00.085Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2afb",
+        "name": "Les Pr\u00e9ales",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.106Z",
+        "updatedAt": "2020-01-13T21:27:00.106Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2afc",
+        "name": "Tournebride",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.132Z",
+        "updatedAt": "2020-01-13T21:27:00.132Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2afd",
+        "name": "Beaulieu Chimie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.159Z",
+        "updatedAt": "2020-01-13T21:27:00.159Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2afe",
+        "name": "Beaulieu INSA",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.190Z",
+        "updatedAt": "2020-01-13T21:27:00.190Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2aff",
+        "name": "Beaulieu Restau U",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.219Z",
+        "updatedAt": "2020-01-13T21:27:00.219Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b00",
+        "name": "IUT",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.247Z",
+        "updatedAt": "2020-01-13T21:27:00.247Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b01",
+        "name": "Clos Courtel",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.275Z",
+        "updatedAt": "2020-01-13T21:27:00.275Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b02",
+        "name": "Longs Champs Est",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.298Z",
+        "updatedAt": "2020-01-13T21:27:00.298Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b03",
+        "name": "ZA Saint-Sulpice",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.319Z",
+        "updatedAt": "2020-01-13T21:27:00.319Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b04",
+        "name": "Patton",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.342Z",
+        "updatedAt": "2020-01-13T21:27:00.342Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b05",
+        "name": "Monts d'Arr\u00e9e",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.364Z",
+        "updatedAt": "2020-01-13T21:27:00.364Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b06",
+        "name": "Neruda",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.395Z",
+        "updatedAt": "2020-01-13T21:27:00.395Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b07",
+        "name": "Condate",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.421Z",
+        "updatedAt": "2020-01-13T21:27:00.421Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b08",
+        "name": "Bellangerais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.447Z",
+        "updatedAt": "2020-01-13T21:27:00.447Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b09",
+        "name": "Morbihan",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.476Z",
+        "updatedAt": "2020-01-13T21:27:00.476Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b0a",
+        "name": "Houx Cit\u00e9 U",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.499Z",
+        "updatedAt": "2020-01-13T21:27:00.499Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b0b",
+        "name": "Rochester",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.523Z",
+        "updatedAt": "2020-01-13T21:27:00.523Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b0c",
+        "name": "Gros Ch\u00eane",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.560Z",
+        "updatedAt": "2020-01-13T21:27:00.560Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b0d",
+        "name": "Volney",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.596Z",
+        "updatedAt": "2020-01-13T21:27:00.596Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b0e",
+        "name": "Jules Ferry",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.623Z",
+        "updatedAt": "2020-01-13T21:27:00.623Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b0f",
+        "name": "Rectorat",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.645Z",
+        "updatedAt": "2020-01-13T21:27:00.645Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b10",
+        "name": "H\u00f4tel Dieu",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.670Z",
+        "updatedAt": "2020-01-13T21:27:00.670Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b11",
+        "name": "Pl\u00e9lo Colombier",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.694Z",
+        "updatedAt": "2020-01-13T21:27:00.694Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b12",
+        "name": "Cit\u00e9 Judiciaire",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.714Z",
+        "updatedAt": "2020-01-13T21:27:00.714Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b13",
+        "name": "Pont de Nantes",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.753Z",
+        "updatedAt": "2020-01-13T21:27:00.753Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b14",
+        "name": "Foyer Rennais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.783Z",
+        "updatedAt": "2020-01-13T21:27:00.783Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b15",
+        "name": "Mermoz",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.809Z",
+        "updatedAt": "2020-01-13T21:27:00.809Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b16",
+        "name": "Pilate",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.833Z",
+        "updatedAt": "2020-01-13T21:27:00.833Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b17",
+        "name": "Saint-Yves",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.855Z",
+        "updatedAt": "2020-01-13T21:27:00.855Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b18",
+        "name": "Pigeon Blanc",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.889Z",
+        "updatedAt": "2020-01-13T21:27:00.889Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b19",
+        "name": "Pressoirs",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.915Z",
+        "updatedAt": "2020-01-13T21:27:00.915Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b1a",
+        "name": "F\u00e9lix Ebou\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.939Z",
+        "updatedAt": "2020-01-13T21:27:00.939Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b1b",
+        "name": "Boberil",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.961Z",
+        "updatedAt": "2020-01-13T21:27:00.961Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a48574ea2531df2b1c",
+        "name": "Lyc\u00e9e Br\u00e9quigny",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:00.983Z",
+        "updatedAt": "2020-01-13T21:27:00.983Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b1d",
+        "name": "A\u00e9roport",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.008Z",
+        "updatedAt": "2020-01-13T21:27:01.008Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b1e",
+        "name": "Aire Libre",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.032Z",
+        "updatedAt": "2020-01-13T21:27:01.032Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b1f",
+        "name": "Abb\u00e9 Grimault",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.056Z",
+        "updatedAt": "2020-01-13T21:27:01.056Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b20",
+        "name": "Morinais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.080Z",
+        "updatedAt": "2020-01-13T21:27:01.080Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b21",
+        "name": "Coll\u00e8ge Jean Moulin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.102Z",
+        "updatedAt": "2020-01-13T21:27:01.102Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b22",
+        "name": "M\u00e9diath\u00e8que",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.130Z",
+        "updatedAt": "2020-01-13T21:27:01.130Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b23",
+        "name": "Jean Marin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.153Z",
+        "updatedAt": "2020-01-13T21:27:01.153Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b24",
+        "name": "Jean Jaur\u00e8s",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.183Z",
+        "updatedAt": "2020-01-13T21:27:01.183Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b25",
+        "name": "Roger Dodin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.207Z",
+        "updatedAt": "2020-01-13T21:27:01.207Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b26",
+        "name": "Gait\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.232Z",
+        "updatedAt": "2020-01-13T21:27:01.232Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b27",
+        "name": "Dominos",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.255Z",
+        "updatedAt": "2020-01-13T21:27:01.255Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b28",
+        "name": "Jules Maniez",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.277Z",
+        "updatedAt": "2020-01-13T21:27:01.277Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b29",
+        "name": "Coeur de Courrouze",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.311Z",
+        "updatedAt": "2020-01-13T21:27:01.311Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b2a",
+        "name": "Jules Verne",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.334Z",
+        "updatedAt": "2020-01-13T21:27:01.334Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b2b",
+        "name": "Saint-Conwo\u00efon",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.360Z",
+        "updatedAt": "2020-01-13T21:27:01.360Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b2c",
+        "name": "Redon",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.394Z",
+        "updatedAt": "2020-01-13T21:27:01.394Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b2d",
+        "name": "Champs P\u00e9ans",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.419Z",
+        "updatedAt": "2020-01-13T21:27:01.419Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b2e",
+        "name": "Taillis",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.445Z",
+        "updatedAt": "2020-01-13T21:27:01.445Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b2f",
+        "name": "Hublais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.478Z",
+        "updatedAt": "2020-01-13T21:27:01.478Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b30",
+        "name": "Sports et Nature",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.507Z",
+        "updatedAt": "2020-01-13T21:27:01.507Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b31",
+        "name": "Vilaine",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.530Z",
+        "updatedAt": "2020-01-13T21:27:01.530Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b32",
+        "name": "Muguet",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.556Z",
+        "updatedAt": "2020-01-13T21:27:01.556Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b33",
+        "name": "Maison d'Accueil",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.585Z",
+        "updatedAt": "2020-01-13T21:27:01.585Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b34",
+        "name": "Mare Pav\u00e9e",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.612Z",
+        "updatedAt": "2020-01-13T21:27:01.612Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b35",
+        "name": "Fontenelle",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.633Z",
+        "updatedAt": "2020-01-13T21:27:01.633Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b36",
+        "name": "La Coul\u00e9e",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.654Z",
+        "updatedAt": "2020-01-13T21:27:01.654Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b37",
+        "name": "Bourgchevreuil",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.691Z",
+        "updatedAt": "2020-01-13T21:27:01.691Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b38",
+        "name": "Cesson Coll\u00e8ge",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.715Z",
+        "updatedAt": "2020-01-13T21:27:01.715Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b39",
+        "name": "Chalotais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.735Z",
+        "updatedAt": "2020-01-13T21:27:01.735Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b3a",
+        "name": "Bordage",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.757Z",
+        "updatedAt": "2020-01-13T21:27:01.757Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b3b",
+        "name": "Rigourdi\u00e8re",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.778Z",
+        "updatedAt": "2020-01-13T21:27:01.778Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b3c",
+        "name": "Longs Pr\u00e9s",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.799Z",
+        "updatedAt": "2020-01-13T21:27:01.799Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b3d",
+        "name": "Gast",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.820Z",
+        "updatedAt": "2020-01-13T21:27:01.820Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b3e",
+        "name": "Europe",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.840Z",
+        "updatedAt": "2020-01-13T21:27:01.840Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b3f",
+        "name": "Tr\u00e9gain",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.864Z",
+        "updatedAt": "2020-01-13T21:27:01.864Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b40",
+        "name": "Saint-Exup\u00e9ry",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.895Z",
+        "updatedAt": "2020-01-13T21:27:01.895Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b41",
+        "name": "Malakoff",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.917Z",
+        "updatedAt": "2020-01-13T21:27:01.917Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b42",
+        "name": "Voltaire",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.943Z",
+        "updatedAt": "2020-01-13T21:27:01.943Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b43",
+        "name": "Dargent",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.965Z",
+        "updatedAt": "2020-01-13T21:27:01.965Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a58574ea2531df2b44",
+        "name": "Champion de Cic\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:01.990Z",
+        "updatedAt": "2020-01-13T21:27:01.990Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b45",
+        "name": "De Lesseps",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.017Z",
+        "updatedAt": "2020-01-13T21:27:02.017Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b46",
+        "name": "Gu\u00e9rinais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.051Z",
+        "updatedAt": "2020-01-13T21:27:02.051Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b47",
+        "name": "R\u00e9cipon",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.078Z",
+        "updatedAt": "2020-01-13T21:27:02.078Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b48",
+        "name": "Montand",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.102Z",
+        "updatedAt": "2020-01-13T21:27:02.102Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b49",
+        "name": "Clinique La Sagesse",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.129Z",
+        "updatedAt": "2020-01-13T21:27:02.129Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b4a",
+        "name": "Cleunay",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.156Z",
+        "updatedAt": "2020-01-13T21:27:02.156Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b4b",
+        "name": "Roazhon Park",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.187Z",
+        "updatedAt": "2020-01-13T21:27:02.187Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b4c",
+        "name": "G\u00e9niaux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.212Z",
+        "updatedAt": "2020-01-13T21:27:02.212Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b4d",
+        "name": "Kerviler",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.250Z",
+        "updatedAt": "2020-01-13T21:27:02.250Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b4e",
+        "name": "Papeteries",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.272Z",
+        "updatedAt": "2020-01-13T21:27:02.272Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b4f",
+        "name": "Guilloux Lorient",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.296Z",
+        "updatedAt": "2020-01-13T21:27:02.296Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b50",
+        "name": "Mou\u00e9zy",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.323Z",
+        "updatedAt": "2020-01-13T21:27:02.323Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b51",
+        "name": "Serpette",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.359Z",
+        "updatedAt": "2020-01-13T21:27:02.359Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b52",
+        "name": "Cimeti\u00e8re de l'Est",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.380Z",
+        "updatedAt": "2020-01-13T21:27:02.380Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b53",
+        "name": "Pavie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.400Z",
+        "updatedAt": "2020-01-13T21:27:02.400Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b54",
+        "name": "Saint-Sa\u00ebns",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.423Z",
+        "updatedAt": "2020-01-13T21:27:02.423Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b55",
+        "name": "Buisson",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.463Z",
+        "updatedAt": "2020-01-13T21:27:02.463Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b56",
+        "name": "Erboni\u00e8re",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.486Z",
+        "updatedAt": "2020-01-13T21:27:02.486Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b57",
+        "name": "Charmilles",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.511Z",
+        "updatedAt": "2020-01-13T21:27:02.511Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b58",
+        "name": "Bas Village",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.535Z",
+        "updatedAt": "2020-01-13T21:27:02.535Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b59",
+        "name": "Forum",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.563Z",
+        "updatedAt": "2020-01-13T21:27:02.563Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b5a",
+        "name": "Breillou",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.588Z",
+        "updatedAt": "2020-01-13T21:27:02.588Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b5b",
+        "name": "Veyettes",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.612Z",
+        "updatedAt": "2020-01-13T21:27:02.612Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b5c",
+        "name": "Cours Kennedy",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.641Z",
+        "updatedAt": "2020-01-13T21:27:02.641Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b5d",
+        "name": "Normandie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.667Z",
+        "updatedAt": "2020-01-13T21:27:02.667Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b5e",
+        "name": "La Harpe",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.691Z",
+        "updatedAt": "2020-01-13T21:27:02.691Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b5f",
+        "name": "Meynier",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.712Z",
+        "updatedAt": "2020-01-13T21:27:02.712Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b60",
+        "name": "Parc Beauregard",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.736Z",
+        "updatedAt": "2020-01-13T21:27:02.736Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b61",
+        "name": "Malraux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.762Z",
+        "updatedAt": "2020-01-13T21:27:02.762Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b62",
+        "name": "Mandela",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.792Z",
+        "updatedAt": "2020-01-13T21:27:02.792Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b63",
+        "name": "Lenoir",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.814Z",
+        "updatedAt": "2020-01-13T21:27:02.814Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b64",
+        "name": "Auberge de Jeunesse",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.857Z",
+        "updatedAt": "2020-01-13T21:27:02.857Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b65",
+        "name": "Square de la Rance",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.887Z",
+        "updatedAt": "2020-01-13T21:27:02.887Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b66",
+        "name": "Foss\u00e9s",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.917Z",
+        "updatedAt": "2020-01-13T21:27:02.917Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b67",
+        "name": "Lyc\u00e9e Zola",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.944Z",
+        "updatedAt": "2020-01-13T21:27:02.944Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b68",
+        "name": "Ch\u00e2tillon",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.974Z",
+        "updatedAt": "2020-01-13T21:27:02.974Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a68574ea2531df2b69",
+        "name": "Ormeaux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:02.997Z",
+        "updatedAt": "2020-01-13T21:27:02.997Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b6a",
+        "name": "Bigot de Pr\u00e9ameneu",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.022Z",
+        "updatedAt": "2020-01-13T21:27:03.022Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b6b",
+        "name": "Sainte-Th\u00e9r\u00e8se",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.054Z",
+        "updatedAt": "2020-01-13T21:27:03.054Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b6c",
+        "name": "Leray",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.078Z",
+        "updatedAt": "2020-01-13T21:27:03.078Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b6d",
+        "name": "Langevin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.101Z",
+        "updatedAt": "2020-01-13T21:27:03.101Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b6e",
+        "name": "Gide",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.132Z",
+        "updatedAt": "2020-01-13T21:27:03.132Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b6f",
+        "name": "Landrel",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.155Z",
+        "updatedAt": "2020-01-13T21:27:03.155Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b70",
+        "name": "Pologne",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.179Z",
+        "updatedAt": "2020-01-13T21:27:03.179Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b71",
+        "name": "Galicie",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.206Z",
+        "updatedAt": "2020-01-13T21:27:03.206Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b72",
+        "name": "Cleunay Stade",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.241Z",
+        "updatedAt": "2020-01-13T21:27:03.241Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b73",
+        "name": "Jean Pont",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.267Z",
+        "updatedAt": "2020-01-13T21:27:03.267Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b74",
+        "name": "25 Fusill\u00e9s",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.288Z",
+        "updatedAt": "2020-01-13T21:27:03.288Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b75",
+        "name": "Br\u00e9quigny Piscine",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.312Z",
+        "updatedAt": "2020-01-13T21:27:03.312Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b76",
+        "name": "Coubertin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.335Z",
+        "updatedAt": "2020-01-13T21:27:03.335Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b77",
+        "name": "Norv\u00e8ge",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.354Z",
+        "updatedAt": "2020-01-13T21:27:03.354Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b78",
+        "name": "Argonautes",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.379Z",
+        "updatedAt": "2020-01-13T21:27:03.379Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b79",
+        "name": "Combes",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.407Z",
+        "updatedAt": "2020-01-13T21:27:03.407Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b7a",
+        "name": "Binquenais",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.431Z",
+        "updatedAt": "2020-01-13T21:27:03.431Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b7b",
+        "name": "Binquenais Coll\u00e8ge",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.451Z",
+        "updatedAt": "2020-01-13T21:27:03.451Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b7c",
+        "name": "Torign\u00e9",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.473Z",
+        "updatedAt": "2020-01-13T21:27:03.473Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b7d",
+        "name": "H\u00f4pital Sud",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.497Z",
+        "updatedAt": "2020-01-13T21:27:03.497Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b7e",
+        "name": "Les Arts",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.519Z",
+        "updatedAt": "2020-01-13T21:27:03.519Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b7f",
+        "name": "Atalante Champeaux",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.553Z",
+        "updatedAt": "2020-01-13T21:27:03.553Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b80",
+        "name": "Chambre Agriculture",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.578Z",
+        "updatedAt": "2020-01-13T21:27:03.578Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b81",
+        "name": "Colin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.603Z",
+        "updatedAt": "2020-01-13T21:27:03.603Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b82",
+        "name": "Merlin",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.624Z",
+        "updatedAt": "2020-01-13T21:27:03.624Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b83",
+        "name": "Villejean-Churchill",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.652Z",
+        "updatedAt": "2020-01-13T21:27:03.652Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b84",
+        "name": "Armorique",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.674Z",
+        "updatedAt": "2020-01-13T21:27:03.674Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b85",
+        "name": "H\u00e9lias",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.695Z",
+        "updatedAt": "2020-01-13T21:27:03.695Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b86",
+        "name": "Hotel de R\u00e9gion",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.724Z",
+        "updatedAt": "2020-01-13T21:27:03.724Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b87",
+        "name": "Vitr\u00e9 Foulon",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.746Z",
+        "updatedAt": "2020-01-13T21:27:03.746Z",
+        "__v": 0
+    },
+    {
+        "liaisons": [],
+        "_id": "5e1ce0a78574ea2531df2b88",
+        "name": "Beaulieu Cit\u00e9 U",
+        "color": "#FFFFFF",
+        "point": {
+            "x": 0,
+            "y": 0
+        },
+        "width": 1,
+        "height": 1,
+        "shape": "circle",
+        "createdAt": "2020-01-13T21:27:03.778Z",
+        "updatedAt": "2020-01-13T21:27:03.778Z",
+        "__v": 0
+    }
+]
